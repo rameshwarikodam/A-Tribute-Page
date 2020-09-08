@@ -7,11 +7,13 @@
   #title{
     text-align:center;
     font-size:50px;
+    color: navy;
   }
   
   #title1{
     text-align:center;
     font-size:18px;
+    color: rgb(148, 7, 78);
   }
 
   figure{
@@ -41,5 +43,11 @@
     #img-caption{
       max-width: 100%;
       height: auto;
+    }
+    #quote{
+      border: goldenrod;
+      border-radius: 2%;
+      border-style: solid;
+      padding: 1% 1% 1% 1%;
     }
   }
